@@ -3,7 +3,7 @@
 <!--
 **mofhizziey/mofhizziey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-My Name is Enimofe Odujirin and i am a Full stack web developer and computer programmer i have a strong passion for coding, and have gone through various lengths to learn it. I am self taught but well grounded in my skills. .
+### My Name is Enimofe Odujirin and i am a Full stack web developer and computer programmer i have a strong passion for coding, and have gone through various lengths to learn it. I am self taught but well grounded in my skills. .
 
 Here are some ideas to get you started:
 
