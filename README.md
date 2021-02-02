@@ -1,5 +1,6 @@
 ### Hi there 👋
-### My Name is Enimofe Odujirin and i am a Full stack web developer and computer programmer i have a strong passion for coding, and have gone through various lengths to learn it. I am self taught but well grounded in my skills. .
+### My Name is Enimofe Odujirin
+I am a Full stack web developer and computer programmer. I am self taught but well grounded in my skills. .
 
 <!--
 **mofhizziey/mofhizziey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -8,12 +9,12 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on my personal portfolio website at https://www.mo-portfolio.com to showcase my projects.
+- 🌱 I’m currently learning laravel, react, ethical hacking 
+- 👯 I’m looking to collaborate on any python or php related web project
+- 🤔 I’m looking for help with UI/UX 
+- 💬 Ask me about DJANGO
+- 📫 How to reach me: mofeodujirin@gmail.com
+- 😄 Pronouns: hehehehe
+- ⚡ Fun fact: Fun fact is a fub fact lol.
 -->
